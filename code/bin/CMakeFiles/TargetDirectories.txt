@@ -1,0 +1,3 @@
+/mnt/c/Users/Parmenide/Desktop/CMU/Data Structures and Algorithms for Engineers/Assignments/Assignment 4/SparseMatrix/code/bin/CMakeFiles/homework.dir
+/mnt/c/Users/Parmenide/Desktop/CMU/Data Structures and Algorithms for Engineers/Assignments/Assignment 4/SparseMatrix/code/bin/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Parmenide/Desktop/CMU/Data Structures and Algorithms for Engineers/Assignments/Assignment 4/SparseMatrix/code/bin/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+# IGNORE ALL EXCEPT UniqueInt.h AND UniqueInt.cpp
+.vscode
+*cpp.txt
+*copy*
+backup
+backup/*
+desktop.ini
+*.ini
