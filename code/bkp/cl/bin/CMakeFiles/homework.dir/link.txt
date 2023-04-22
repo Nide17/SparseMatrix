@@ -1,1 +1,0 @@
-/usr/bin/c++  -g  -rdynamic CMakeFiles/homework.dir/src/SparseMatrix.cpp.o CMakeFiles/homework.dir/src/homework.cpp.o CMakeFiles/homework.dir/src/util/GetMemUsage.cpp.o CMakeFiles/homework.dir/src/util/LogManager.cpp.o -o homework 
